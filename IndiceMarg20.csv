@@ -1,0 +1,36 @@
+CVE_ENT,entidad,Poblacion,pob_analf,pob_sin_ed_bas,Viv_sin_dren_exc,viv_sin_elec,viv_sin_agua entubada en el ámbito de la viviend,viv_hacin,pob_piso_tierra,pob_loc_5K,pob_ing_2m,Indice_marg_20,Grado_marg_20
+1,Aguascalientes,"1,425,607",2.11,23.58,0.35,0.23,,13.13,0.77,21.27,58.5,22.21,Muy bajo
+2,Baja California,"3,769,020",1.83,24.68,0.2,0.58,2.1,14.59,1.91,8.46,73.55,21.38,Bajo
+3,Baja California Sur,"798,447",2.34,23.98,0.42,0.96,5.39,18.6,5.06,10.28,45.49,21.47,Bajo
+4,Campeche,"928,363",5.86,29.78,2.52,1.05,3.98,29.97,2.69,29.92,70.01,17.81,Alto
+5,Coahuila de Zaragoza,"3,146,771",1.67,21.49,0.3,0.17,0.94,13.48,0.75,10.04,60.03,22.55,Muy bajo
+6,Colima,"731,391",3.37,27.82,0.27,0.33,0.66,15.31,2.62,13.5,59.73,21.53,Bajo
+7,Chiapas,"5,543,828",13.7,48.12,2.46,1.8,10.68,36.09,12.39,57.64,85.57,12,Muy alto
+8,Chihuahua,"3,741,869",2.63,27.3,1.42,1.66,1.66,13.6,2.18,14.39,66.7,20.02,Medio
+9,Ciudad de México,"9,209,944",1.43,17.64,0.05,0.05,1.24,14.4,0.63,1.01,56.13,23.14,Muy bajo
+10,Durango,"1,832,650",2.73,27.49,2.84,2.09,2.31,16.21,4.26,32.5,69.26,18.47,Alto
+11,Guanajuato,"6,166,934",5.29,33.53,1.93,0.38,2.91,16.9,2.42,33.26,67.09,19.42,Medio
+12,Guerrero,"3,540,685",12.47,42.55,9.38,1.41,11.55,32.86,15.27,48.15,80.28,10.99,Muy alto
+13,Hidalgo,"3,082,841",6.62,29.91,1.9,0.64,3.87,18.52,2.85,53.83,73.95,18.05,Alto
+14,Jalisco,"8,348,151",2.9,29.54,0.57,0.3,0.75,14.02,1.66,16.16,55.86,21.82,Bajo
+15,México,"16,992,418",2.9,24.96,1.21,0.26,2.78,20.7,2.08,19.15,66,20.8,Bajo
+16,Michoacán de Ocampo,"4,748,846",7.05,42.41,1.37,0.49,2.82,18.83,5.59,37.53,70.62,18.28,Alto
+17,Morelos,"1,971,520",4.45,27.53,0.73,0.3,4.22,19.28,4.1,26.13,73.59,19.81,Medio
+18,Nayarit,"1,235,456",4.49,29.05,3.97,2.13,3.02,18.01,3.99,36.47,64.82,17.52,Alto
+19,Nuevo León,"5,784,442",1.47,19.07,0.1,0.11,0.7,13.2,0.79,5.14,46.79,23.44,Muy bajo
+20,Oaxaca,"4,132,148",11.82,45.28,1.94,1.92,10,29.45,13.99,59.4,78.85,13.22,Muy alto
+21,Puebla,"6,583,278",6.97,36.87,1.13,0.61,4.66,25.53,5.34,36.08,77.3,17.72,Alto
+22,Querétaro de Arteaga,"2,368,467",3.48,23.63,1.66,0.47,2.13,15.13,2.02,28.83,57.08,20.84,Bajo
+23,Quintana Roo,"1,857,985",3.07,22.53,1.14,0.82,1.66,26.13,2.42,11.47,57.26,20.63,Medio
+24,San Luis Potosí,"2,822,255",5.02,29.32,1.52,1.18,7.64,16.77,4.97,36.03,64.88,18.69,Medio
+25,Sinaloa,"3,026,943",3.56,28.86,1.37,0.4,1.4,18.87,2.26,29.26,61.77,20.51,Medio
+26,Sonora,"2,944,840",1.99,22.41,0.66,0.66,1.3,16.62,2.42,15.16,63.22,21.41,Bajo
+27,Tabasco,"2,402,598",5.09,29.17,1.76,0.49,6.18,26.09,3.37,53.27,71.75,18.33,Alto
+28,Tamaulipas,"3,527,735",2.58,25.79,0.25,0.43,1.62,17.43,1.42,11.24,76.27,21,Bajo
+29,Tlaxcala,"1,342,977",3.35,26.94,0.9,0.41,0.89,22.24,1.8,32.13,78.81,19.87,Medio
+30,Veracruz de Ignacio de la Llave,"8,062,579",8.5,39.88,1.26,1.07,8.67,23.09,5.98,45.86,78.12,16.41,Alto
+31,Yucatán,"2,320,898",6,31.55,5.87,0.69,1.06,26.17,1.41,23.32,69.68,17.51,Alto
+32,Zacatecas,"1,622,138",3.76,32.31,2.32,0.46,1.83,16.25,1.25,44.42,71.92,19.5,Medio
+,,,,,,,,,,,,,
+"Fuente: Elaborado por el IIEG, estimaciones del CONAPO con base  en INEGI, Censo de Población y Vivienda 2020.",,,,,,,,,,,,,
+"Nota: Información actualizada al 3 de diciembre de 2021, derivado de un error en la estimación del Índice de marginación por entidad federativa y municipio 2020, en particular, en la base de referencia del indicador Porcentaje de población ocupada con ingresos de hasta dos salarios mínimos, se realizó un ajuste que derivó en cambios ligeros de posición de algunas entidades federativas y de grado de marginación de tres entidades federativas: Jalisco pasó de muy bajo a tener bajo, Quintana Roo de bajo a medio y San Luis Potosí de alto a medio. Cabe resaltar que el error no afectó los grados de marginación a nivel municipal en ningún caso.",,,,,,,,,,,,,
