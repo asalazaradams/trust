@@ -1,4 +1,4 @@
-CVE_ENT,entidad,Poblacion,pob_analf,pob_sin_ed_bas,Viv_sin_dren_exc,viv_sin_elec,viv_sin_agua entubada en el ámbito de la viviend,viv_hacin,pob_piso_tierra,pob_loc_5K,pob_ing_2m,Indice_marg_20,Grado_marg_20
+CVE_ENT,entidad,Poblacion,pob_analf,pob_sin_ed_bas,Viv_sin_dren_exc,viv_sin_elec,viv_sin_agua,viv_hacin,pob_piso_tierra,pob_loc_5K,pob_ing_2m,Indice_marg_20,Grado_marg_20
 1,Aguascalientes,"1,425,607",2.11,23.58,0.35,0.23,,13.13,0.77,21.27,58.5,22.21,Muy bajo
 2,Baja California,"3,769,020",1.83,24.68,0.2,0.58,2.1,14.59,1.91,8.46,73.55,21.38,Bajo
 3,Baja California Sur,"798,447",2.34,23.98,0.42,0.96,5.39,18.6,5.06,10.28,45.49,21.47,Bajo
